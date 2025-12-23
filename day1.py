@@ -1,1 +1,2 @@
-1st py
+name=input("Enter your name:")
+print("name")
